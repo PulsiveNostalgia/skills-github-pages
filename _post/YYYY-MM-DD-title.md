@@ -1,4 +1,5 @@
 ---
-title: "Pulsive Nostalgia Marketplace"
-date: 2023-11-06
+Item Description: "Gumby"
+Date Posted: 2023-11-06
+Price: $5.00
 ---
